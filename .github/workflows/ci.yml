@@ -3,7 +3,7 @@ name : python CI
 on:
  push:
    branches:
-     -main
+     - main
 
 jobs:
   lint-and-test:
